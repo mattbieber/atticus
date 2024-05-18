@@ -7,12 +7,10 @@
         "build": "next build",
         "start": "next start",
         "lint": "eslint --ignore-path .gitignore .",
-        "typecheck": "npx tsc --noEmit --skipLibCheck",
+        "typecheck": "npx tsc --noEmit --skipLibCheck"
         
     },
-    "prisma": {
-        "schema": "data/schema.prisma"
-    },
+    
     "dependencies": {
        
         "clsx": "^2.1.0",

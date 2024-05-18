@@ -2,7 +2,7 @@
 
 This is *very* rudimentary start to the Atticus coding assessment.  
 
-For a live instance (Vercel) visit [https://solacenotes-one.vercel.app](https://solacenotes-one.vercel.app/)
+For a live instance (Vercel) visit
 
 > Please contact me with any questions or comments.  Thanks!
 
