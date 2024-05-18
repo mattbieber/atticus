@@ -26,6 +26,8 @@ General rundown of my approach:
 - In hindsight, I'd spend less time on the data side of things and more on the UI
 - The attempt at 'normalizing' the schema was prob. unwise given the timeframe
 
+- **Note:** progress kinda fizzled out at the `playlist creation step`  not ideal...
+
 
 
 Some other omissions for the sake of time:
