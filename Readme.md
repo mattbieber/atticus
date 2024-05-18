@@ -1,6 +1,6 @@
-# Solace Notes
+# Atticus
 
-This is my implementation of the [Technical Full Stack Prompt ](https://findsolace.notion.site/Technical-Full-Stack-Prompt-6d27ed922aaa43a1add14f517c9ab002) assessment.  
+This is *very* rudimentary start to the Atticus coding assessment.  
 
 For a live instance (Vercel) visit [https://solacenotes-one.vercel.app](https://solacenotes-one.vercel.app/)
 
@@ -13,9 +13,7 @@ General rundown of my approach:
 - Built with Next.js / Typescript
 
 - [Prisma](https://www.prisma.io/nextjs) for ORM with a [Vercel hosted Postgres](https://vercel.com/docs/storage/vercel-postgres) instance
-- [Clerk](https://clerk.com/) for auth
 
-- [Tiptap](https://github.com/ueberdosis/tiptap) for rich text / markdown-like formatting
 - [Tailwind](https://tailwindcss.com/) and [Shadcn](https://ui.shadcn.com/) for UI
 
 

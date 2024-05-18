@@ -8,7 +8,7 @@
         "start": "next start",
         "lint": "eslint --ignore-path .gitignore .",
         "typecheck": "npx tsc --noEmit --skipLibCheck",
-        "postinstall": "prisma generate"
+        
     },
     "prisma": {
         "schema": "data/schema.prisma"
